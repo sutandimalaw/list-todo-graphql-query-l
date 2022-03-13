@@ -1,0 +1,32 @@
+.container {
+    margin: 50px;
+    /* display: flex;
+    justify-content: center;
+    text-align: ; */
+}
+
+.section-search{
+    display: flex;
+    justify-content: center;
+}
+.search {
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .section-table{
+      display: flex;
+      justify-content: center;
+  }
+  .row{
+      display: flex;
+      gap: 10px;
+      margin-bottom: 10px;
+  }
+  .val{
+      display: flex;
+      align-items: center;
+      
+  }
